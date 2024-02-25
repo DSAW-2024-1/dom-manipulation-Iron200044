@@ -1,5 +1,11 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+li .line-through{
+    text-decoration: line-through;
+    color: #6B240C;
+    transition: all 0.3s ease;
 }
+
+.text{
+    color: #F5CCA0;
+}
+
+

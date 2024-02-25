@@ -14,6 +14,15 @@ Esta tarea consiste en crear una aplicación de lista de tareas utilizando HTML,
 
 El diseño de la aplicación debe ser responsive y adaptarse correctamente a diferentes tamaños de pantalla. Se espera que la interfaz sea fácil de usar tanto en dispositivos móviles como en desktops.
 
+## Diseño pagina Celular
+- <img id="image" src="Dom-Manipulation-celular.jpeg" alt="image-cel" width="670" height="340">
+
+## Diseño pagina Tablet
+- <img id="image" src="Dom-Manipulation-ipad.jpeg" alt="image-cel" width="670" height="340">
+
+## Diseño pagina Escritorio
+- <img id="image" src="Dom-Manipulation-escritorio.jpeg" alt="image-cel" width="670" height="340">
+
 
 | Viewport                | Dimensiones (ancho x alto) |
 | ----------------------- | -------------------------- |
